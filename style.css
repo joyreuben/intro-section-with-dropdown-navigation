@@ -138,18 +138,18 @@ ul > li{
     }
     .right::after{
         content: "";
-        height:720px;
+        height:680px;
         width:550px;
         background: url('images/image-hero-desktop.png')no-repeat;
         background-size: cover;
         position: absolute;
         top:140px;
-        right: 100px;
+        right: 70px;
     }
     h2{
         max-width: 830px;
         color:hsl(0, 0%, 8%);
-        font-size: 5rem;
+        font-size: 4rem;
         font-weight: 700;
         padding-right: 150px;
     }
