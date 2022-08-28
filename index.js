@@ -11,11 +11,11 @@ function openNavs(x) {
 
 function sideMenu(x) {
     document.getElementById("ham-menu").classList.toggle("show");
-    
+    document.getElementById("ham-menu").classList.remove("hide"); 
 }
 
 function closeMenu(x) {
     document.getElementById("ham-menu").classList.toggle("hide");
-    document.getElementById("ham-menu").classList.remove("hide");
+   
 }
 
