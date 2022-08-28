@@ -138,7 +138,7 @@ ul > li{
     }
     .right::after{
         content: "";
-        height:680px;
+        height:650px;
         width:550px;
         background: url('images/image-hero-desktop.png')no-repeat;
         background-size: cover;
@@ -147,7 +147,7 @@ ul > li{
         right: 70px;
     }
     h2{
-        max-width: 830px;
+        max-width: 730px;
         color:hsl(0, 0%, 8%);
         font-size: 4rem;
         font-weight: 700;
