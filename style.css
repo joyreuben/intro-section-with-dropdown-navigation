@@ -101,7 +101,7 @@ ul > li{
       }
    
     .header-right{
-        margin-right:500px;
+        margin-right:480px;
     } 
     .header-left > a:hover{
         color:hsl(0, 0%, 8%);
